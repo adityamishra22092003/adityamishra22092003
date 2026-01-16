@@ -53,19 +53,6 @@
 
 ---
 
-## 📊 GitHub Activity
-
-### Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityamishra22092003&show_icons=true&theme=github_dark)
-
-### Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adityamishra22092003&theme=github-dark)
-
-### Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityamishra22092003&layout=compact&theme=github_dark)
-
----
-
 ## 🚀 Featured Projects
 
 | Project | What it does |
