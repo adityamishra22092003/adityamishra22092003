@@ -13,13 +13,14 @@
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityamishra22092003&show_icons=true&theme=onedark&include_all_commits=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityamishra22092003&theme=onedark" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=adityamishra22092003&show_icons=true&theme=onedark&include_all_commits=true&cache_seconds=1800" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=adityamishra22092003&theme=onedark&date_format=j%20M%5B%20Y%5D" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityamishra22092003&layout=compact&theme=onedark" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityamishra22092003&layout=compact&theme=onedark&langs_count=8" />
 </p>
+
 
 ---
 
