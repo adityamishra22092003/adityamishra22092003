@@ -6,12 +6,20 @@
 <div align="center">
   <h1>👋 Hi, I'm Aditya Mishra</h1>
   <p>Full Stack Developer | JavaScript Lover | Open-Source Enthusiast</p>
-  <p align="center">
-    <a href="https://github.com/adityamishra22092003">
-      <img src="https://github-readme-stats.vercel.app/api?username=adityamishra22092003&show_icons=true&theme=onedark&include_all_commits=true" alt="GitHub Stats" />
-    </a>
-  </p>
 </div>
+
+---
+
+## 📊 GitHub Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adityamishra22092003&show_icons=true&theme=onedark&include_all_commits=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityamishra22092003&theme=onedark" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityamishra22092003&layout=compact&theme=onedark" height="150"/>
+</p>
 
 ---
 
@@ -31,40 +39,35 @@
 
 ## 🚀 About Me
 
-- 👨‍💻 I’m a Full Stack Developer passionate about building web apps.
-- 🌱 I’m currently learning **Advanced React & Next.js**.
-- 💼 I love working with JavaScript and modern web technologies.
-- 💬 Ask me about **frontend, backend, APIs, or web performance**.
-- 📫 You can reach me via LinkedIn or Instagram too!
+- 👨‍💻 Full Stack Developer passionate about scalable web apps  
+- 🌱 Currently learning **Advanced React & Next.js**  
+- 💼 Strong interest in JavaScript, APIs & system design  
+- 💬 Ask me about **Frontend, Backend, MERN, REST APIs**  
+- 📫 Reach me via LinkedIn or Instagram  
 
 ---
 
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adiiimishra)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adiiimishra)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/adii_imishra)
 
 ---
 
-## 📈 My GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adityamishra22092003&theme=dark)
-
----
-
-## ⭐ Pinned Projects
-
-Check out some of my projects below 👇
+## ⭐ Featured Projects
 
 | Project | Description |
-| ------- | ----------- |
-| **Portfolio** | My personal portfolio website |
+|-------|------------|
+| **Portfolio** | Personal developer portfolio |
 | **CgYatri Back-End** | Backend for CgYatri booking system |
-| **Discover-chhattisgarh** | JavaScript travel UI |
-| **Glow-Navbar** | Fancy animated navbar UI |
+| **Discover-Chhattisgarh** | JavaScript travel UI |
+| **Glow-Navbar** | Animated modern navbar |
 | **Keyboard-Sounds** | Fun React soundboard app |
 
 ---
 
-Thanks for visiting my GitHub! 🚀  
-Let's build something amazing. 💡
+<div align="center">
+  🚀 Thanks for visiting my GitHub!  
+  <br/>
+  Let’s build something amazing together 💡
+</div>
