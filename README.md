@@ -4,9 +4,8 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Aditya+Mishra+%F0%9F%91%8B;Full+Stack+Developer;MERN+Stack+%7C+Open+Source;Building+Scalable+Web+Apps" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Aditya+Mishra+%F0%9F%91%8B;Full+Stack+Developer;MERN+Stack+%7C+Open+Source;Building+Scalable+Web+Apps" />
 
-<br/>
 
 <p>
   <strong>Full Stack Developer</strong> · JavaScript · MERN · APIs · System Design
@@ -94,8 +93,8 @@
 
 <div align="center">
 
-### 💡 *"Code is not just written, it’s designed."*
+### ⭐ *"Code is not just written, it’s designed."* ⭐
 
-⭐ If you like my work, consider starring my repositories
+⭐ If you like my work, consider starring my repositories ⭐
 
 </div>
