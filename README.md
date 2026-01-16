@@ -1,61 +1,101 @@
-<!--
-  Hi there 👋 Welcome to my GitHub profile!
-  This README shows info about me, stats and links. ✨
--->
+<!-- ===================== -->
+<!--  Aditya Mishra README -->
+<!-- ===================== -->
 
 <div align="center">
-  <h1>👋 Hi, I'm Aditya Mishra</h1>
-  <p>Full Stack Developer | JavaScript Lover | Open-Source Enthusiast</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Aditya+Mishra+%F0%9F%91%8B;Full+Stack+Developer;MERN+Stack+%7C+Open+Source;Building+Scalable+Web+Apps" />
+
+<br/>
+
+<p>
+  <strong>Full Stack Developer</strong> · JavaScript · MERN · APIs · System Design
+</p>
+
+<p>
+  <a href="https://github.com/adityamishra22092003">
+    <img src="https://komarev.com/ghpvc/?username=adityamishra22092003&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+</p>
+
 </div>
 
 ---
 
+## 🧠 About Me
 
-## 🛠️ Languages & Tools
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+- 👨‍💻 Full Stack Developer focused on **clean architecture & scalability**
+- 🚀 Building real-world products using **MERN Stack**
+- 🌱 Currently learning **Next.js, System Design & Cloud**
+- 🤝 Open to **collaboration & open-source contributions**
+- 📫 Reach me anytime via LinkedIn or Instagram
 
 ---
 
-## 🚀 About Me
+## ⚙️ Tech Stack
 
-- 👨‍💻 Full Stack Developer passionate about scalable web apps  
-- 🌱 Currently learning **Advanced React & Next.js**  
-- 💼 Strong interest in JavaScript, APIs & system design  
-- 💬 Ask me about **Frontend, Backend, MERN, REST APIs**  
-- 📫 Reach me via LinkedIn or Instagram  
+### 💻 Frontend
+![React](https://img.shields.io/badge/React-000?logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?logo=typescript)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-000?logo=tailwindcss)
+
+### 🛠 Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-000?logo=node.js)
+![Express](https://img.shields.io/badge/Express-000?logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?logo=mongodb)
+![REST API](https://img.shields.io/badge/REST-000)
+
+### 🔧 Tools
+![Git](https://img.shields.io/badge/Git-000?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000?logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-000?logo=visualstudiocode)
 
 ---
 
-## 🔗 Connect With Me
+## 📊 GitHub Activity
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adiiimishra)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/adii_imishra)
+### Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityamishra22092003&show_icons=true&theme=github_dark)
+
+### Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adityamishra22092003&theme=github-dark)
+
+### Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityamishra22092003&layout=compact&theme=github_dark)
 
 ---
 
-## ⭐ Featured Projects
+## 🚀 Featured Projects
 
-| Project | Description |
-|-------|------------|
-| **Portfolio** | Personal developer portfolio |
-| **CgYatri Back-End** | Backend for CgYatri booking system |
-| **Discover-Chhattisgarh** | JavaScript travel UI |
-| **Glow-Navbar** | Animated modern navbar |
-| **Keyboard-Sounds** | Fun React soundboard app |
+| Project | What it does |
+|-------|--------------|
+| **CgYatri** | Smart travel & booking platform |
+| **Portfolio** | Developer portfolio website |
+| **Glow Navbar** | Modern animated UI component |
+| **Discover Chhattisgarh** | Travel & tourism web app |
+| **Keyboard Sounds** | Interactive React sound app |
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/adiiimishra">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/adii_imishra">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 <div align="center">
-  🚀 Thanks for visiting my GitHub!  
-  <br/>
-  Let’s build something amazing together 💡
+
+### 💡 *"Code is not just written, it’s designed."*
+
+⭐ If you like my work, consider starring my repositories
+
 </div>
